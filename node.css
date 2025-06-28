@@ -1,0 +1,20 @@
+/* node.css */
+
+/* This sets the general layout */
+Screen {
+    layout: vertical;
+}
+
+/* Styles for the log area */
+#log {
+    border: round white;
+    height: 80%; /* Take up most of the screen */
+    margin: 1 2;
+}
+
+/* Styles for the input box */
+#input {
+    border: round white;
+    margin: 0 2;
+    height: 3;
+}
